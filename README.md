@@ -5,10 +5,10 @@ This project and README file was created 07/07/2019
 Kristjan's git project
 
 ### Description
-Describe what your project is about and what it does
+This project is my first milestone towards mastering programming, and combining it with Git. It will help me improve my use of Git.
 
 ### Files used
-Include the files used
+.gitignore, bikeshare.py, chicago.csv, new_york_city.csv, README.md, washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
