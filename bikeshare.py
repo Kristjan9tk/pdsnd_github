@@ -110,7 +110,7 @@ def station_stats(df):
 
     # TO DO: display most frequent combination of start station and end station trip
     combined_stations = df[["Start Station","End Station"]].mode()
-    print("{} to {} is most frequent combination of start station and end station trip".format(
+    print("{} to {} is the most frequent combination of start station and end station destination".format(
         combined_stations["Start Station"][0], combined_stations["End Station"][0]))
 
     print("\nThis took %s seconds." % (time.time() - start_time))
@@ -127,7 +127,7 @@ def trip_duration_stats(df):
     print("Total traveltime is {}".format(df["Trip Duration"].sum()))
 
     # TO DO: display mean travel time
-    print("The mean travel time is {}".format(df["Trip Duration"].mean()))
+    print("The mean traveltime is {}".format(df["Trip Duration"].mean()))
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
