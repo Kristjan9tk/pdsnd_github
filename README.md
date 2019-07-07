@@ -1,5 +1,5 @@
 ### Date created
-This project and README file was created 07/07/2019
+This project and the README file was created 07/07/2019
 
 ### Project Title
 Kristjan's git project
