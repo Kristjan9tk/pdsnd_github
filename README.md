@@ -11,5 +11,4 @@ This project is my first milestone towards mastering programming, and combining 
 .gitignore, bikeshare.py, chicago.csv, new_york_city.csv, README.md, washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+I want to thank Richard Kalehoff who have walked me through version control step by step.
